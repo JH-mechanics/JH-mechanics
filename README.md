@@ -28,13 +28,17 @@ Sports Scientist</b> specialized in Motor Control & Biomechanics
 
 ```javascript
 const Jongho = {
+  focus: ["Neuromuscular Control", "Musculoskeletal modeling", "AI"],
 
-code: ["Matlab", "Python (PyTorch)", "R", "Javascript"],
+  research: ["Chronic Ankle Instability", "Muscle Synergies", "Non-linear Dynamics"],
 
-tools: ["OpenSim", "Visual3D", "Electromyography", "Force Plate"],
+  tools: ["OpenSim", "Visual3D", "Electromyography", "Force Plate"],
 
-research: ["Chronic Ankle Instability", "Muscle Synergies", "Non-linear Dynamics"],
+  code: ["Matlab", "Python (PyTorch)", "R", "Javascript"],
+  
+  challenge: "Bridging the gap between Human movement science and AI"
+};
+```
 
-focus: ["Neuromuscular Control", "Musculoskeletal modeling", "AI"],
-
-
+<b>"Human study Researcher who speaks AI"</b> 🚀
+<b> 📧 jjong7795@korea.ac.kr
