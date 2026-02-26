@@ -1,9 +1,10 @@
 ## Hi! I'm Jongho Yang 🇰🇷.
 #### Welcome to my page!
 
-<b>Ph.D. student</b> in Neuromechanics at Korea University
-<b>Sports Scientist</b> specialized in Motor Control & Biomechanics
+Ph.D. student</b> in Neuromechanics at Korea University
+<br>
 
+Sports Scientist</b> specialized in Motor Control & Biomechanics
 <br>
 
 <a href="https://github.com/JH-mechanics">
@@ -20,7 +21,7 @@
 <br>
 <br>
 
-### <b>🏃 A little more about me...</b>
+### <b> 📌 A little more about me...</b>
 
 ```javascript
 const sia = {
