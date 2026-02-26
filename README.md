@@ -24,7 +24,6 @@ Sports Scientist</b> specialized in Motor Control & Biomechanics
 <br>
 <br>
 
---
 ### <b> 📌 A little more about me...</b>
 
 ```javascript
@@ -32,7 +31,7 @@ const Jongho = {
 
 code: ["Matlab", "Python (PyTorch)", "R", "Javascript"],
 
-tools: ["OpenSim', "Visual3D", "Electromyography", "Force Plate"]
+tools: ["OpenSim", "Visual3D", "Electromyography", "Force Plate"],
 
 research: ["Chronic Ankle Instability", "Muscle Synergies", "Non-linear Dynamics"],
 
