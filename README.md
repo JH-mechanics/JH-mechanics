@@ -1,6 +1,6 @@
 ## Hi! Nice to see you 🙌🏼.
-#### Wlecome to my page!
-### I'm Jongho Yang, Sports Scientist from 🇰🇷 South KOREA.
+#### Welcome to my page!
+#### I'm Jongho Yang, Sports Scientist from 🇰🇷 South Korea.
 
 <!--
 **JH-mechanics/JH-mechanics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
