@@ -24,29 +24,16 @@ Sports Scientist</b> specialized in Motor Control & Biomechanics
 ### <b> 📌 A little more about me...</b>
 
 ```javascript
-const sia = {
-  pronouns: "she" | "her",
-  focus: ["Neuromechanics", "AI", "Data Analysis"],
-  research: "Chronic Ankle Instability (CAI)",
-  certifications: ["SFG Level 1 (Preparing)", "Pilates"],
+const Jongho = {
+focus: ["Neuromuscular Control", "Musculoskeletal modeling", "AI"],
+  research: [
+    "Chronic Ankle Instability", //
+    "Muscle Synergies",
+    "Non-linear Dynamics"
+  ],
   goals_2026: {
-    august: "Body Profile Photo Shoot",
-    winter: "Honeymoon in the US"
+    august: "Body Profile Photo Shoot", //
+    winter: "Honeymoon in the US" //
   },
-  challenge: "Applying AI and data analysis to physical education"
+  challenge: "Applying AI and data analysis to physical education" //
 }
-
-<!--
-**JH-mechanics/JH-mechanics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
