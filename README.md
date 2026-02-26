@@ -12,12 +12,12 @@ Sports Scientist</b> specialized in Motor Control & Biomechanics
 
 <instagram>
 <a href="https://www.instagram.com/elief_jjong/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
+  <img src="https://img.shields.io/badge/elief__jjong-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
 </a>
 
 <google web-site> 
 <a href="https://sites.google.com/view/anvil-labotatroy/home">
-  <img src="https://img.shields.io/badge/Website-4285F4?style=flat-square&logo=google&logoColor=white" alt="Website">
+  <img src="https://img.shields.io/badge/about%20me-4285F4?style=flat-square&logo=google&logoColor=white" alt="Website">
 </a>
 
 <br>
@@ -28,13 +28,16 @@ Sports Scientist</b> specialized in Motor Control & Biomechanics
 
 ```javascript
 const Jongho = {
+
 focus: ["Neuromuscular Control", "Musculoskeletal modeling", "AI"],
   research: [
     "Chronic Ankle Instability", //
     "Muscle Synergies",
     "Non-linear Dynamics"
   ],
+
 tools: ["OpenSim', "Visual3D"]
+
 
   goals_2026: {
     august: "Body Profile Photo Shoot", //
