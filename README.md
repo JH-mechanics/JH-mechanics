@@ -40,5 +40,6 @@ const Jongho = {
 };
 ```
 
-<b>"Human study Researcher who speaks AI"</b> 🚀
-<b> 📧 jjong7795@korea.ac.kr
+### <b>"Human study Researcher who speaks AI"</b> 🚀
+
+#### <b> 📨 jjong7795@korea.ac.kr
