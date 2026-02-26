@@ -2,6 +2,13 @@
 #### Welcome to my page!
 #### I'm Jongho Yang, Sports Scientist from 🇰🇷 South Korea.
 
+const myProfile = {
+  pronouns: "he" | "him",
+  code: [Javascript, Typescript, HTML, CSS],
+  tools: [React, Node, Docker],
+  challenge: "매일 새로운 기술을 공부하고 있습니다."
+};
+
 <!--
 **JH-mechanics/JH-mechanics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
