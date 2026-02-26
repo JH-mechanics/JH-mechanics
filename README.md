@@ -24,11 +24,14 @@ Sports Scientist</b> specialized in Motor Control & Biomechanics
 <br>
 <br>
 
+--
 ### <b> 📌 A little more about me...</b>
 
 ```javascript
 const Jongho = {
-
+// Languages
+code: ["Matlab", "Python (PyTorch)", "R", "Javascript"],
+// Research
 focus: ["Neuromuscular Control", "Musculoskeletal modeling", "AI"],
   research: [
     "Chronic Ankle Instability", //
@@ -36,12 +39,5 @@ focus: ["Neuromuscular Control", "Musculoskeletal modeling", "AI"],
     "Non-linear Dynamics"
   ],
 
-tools: ["OpenSim', "Visual3D"]
+tools: ["OpenSim', "Visual3D", "Electromyography", "Force Plate"]
 
-
-  goals_2026: {
-    august: "Body Profile Photo Shoot", //
-    winter: "Honeymoon in the US" //
-  },
-  challenge: "Applying AI and data analysis to physical education" //
-}
