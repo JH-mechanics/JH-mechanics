@@ -33,7 +33,7 @@ const Jongho = {
 
   research: ["Chronic Ankle Instability", "Muscle Synergies", "Non-linear Dynamics"],
 
-  tools: ["OpenSim", "Visual3D", "Electromyography", "Force Plate", "IMU"],
+  tools: ["OpenSim", "Visual3D", "EMG", "Force Plate", "IMU"],
 
   code: ["Matlab", "Python (PyTorch)", "R", "Javascript"],
   
