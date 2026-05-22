@@ -1,4 +1,5 @@
-## Hi! I'm Jongho Yang 🇰🇷.
+## Hi! I'm Jongho Yang 🧠
+
 #### Welcome to my page!
 
 Ph.D. student</b> in Neuromechanics at Korea University
@@ -32,7 +33,7 @@ const Jongho = {
 
   research: ["Chronic Ankle Instability", "Muscle Synergies", "Non-linear Dynamics"],
 
-  tools: ["OpenSim", "Visual3D", "Electromyography", "Force Plate"],
+  tools: ["OpenSim", "Visual3D", "Electromyography", "Force Plate", "IMU"],
 
   code: ["Matlab", "Python (PyTorch)", "R", "Javascript"],
   
@@ -40,6 +41,6 @@ const Jongho = {
 };
 ```
 
-### <b>"Human study Researcher who speaks AI"</b> 🚀
+#### <b>"Investigating the principles of human movement by integrating motor control and biomechanics."</b> 🚀
 
 #### <b> 📨 jjong7795@korea.ac.kr
