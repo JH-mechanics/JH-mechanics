@@ -37,10 +37,9 @@ const Jongho = {
 
   code: ["Matlab", "Python (PyTorch)", "R", "Javascript"],
   
-  challenge: "Bridging the gap between Human movement science and AI"
+  challenge: "Analyzing neuromuscular mechanisms of human movement, bridge into practical solutions"
 };
 ```
 
-#### <b>"Investigating the principles of human movement by integrating motor control and biomechanics."</b> 🚀
-
+### <b> Contact
 #### <b> 📨 jjong7795@korea.ac.kr
