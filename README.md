@@ -37,7 +37,7 @@ const Jongho = {
 
   code: ["Matlab", "Python (PyTorch)", "R", "Javascript"],
   
-  challenge: "Analyzing neuromuscular mechanisms of human movement, bridge into practical solutions"
+  challenge: "Elucidating neuromuscular mechanisms of human movement, bridge into practical solutions"
 };
 ```
 
