@@ -8,7 +8,7 @@ Sports Scientist</b> specialized in Motor Control & Biomechanics
 
 <a href="https://github.com/jh-neurokix"><img src="https://img.shields.io/badge/-this%20page!-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>&nbsp;<!--
 --><a href="https://www.instagram.com/jh.neurokix/"><img src="https://img.shields.io/badge/-jh.neurokix-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>&nbsp;<!--
---><a href="https://www.google.com/search?q=Jongho+Yang+Korea+University"><img src="https://img.shields.io/badge/-about%20me-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google"></a>
+--><a href="https://sites.google.com/view/anvil-labotatroy/home"><img src="https://img.shields.io/badge/-about%20me-4285F4?style=flat-square&logo=google&logoColor=white" alt="About Me"></a>
 
 <br>
 <br>
