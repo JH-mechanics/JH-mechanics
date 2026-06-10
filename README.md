@@ -8,7 +8,7 @@ Sports Scientist</b> specialized in Motor Control & Biomechanics
 
 <git-hub>
 <a href="https://github.com/JH-mechanics">
-  <img src="https://img.shields.io/github/followers/JH-mechanics?style=social" alt="GitHub">
+   <img src="https://img.shields.io/badge/Instagram-jh.neurokix-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
 </a>
 
 <instagram>
