@@ -13,7 +13,7 @@ Sports Scientist</b> specialized in Motor Control & Biomechanics
 
 <instagram>
 <a href="https://www.instagram.com/elief_jjong/">
-  <img src="https://img.shields.io/badge/elief__jjong-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
+  <img src="https://img.shields.io/badge/jh.neurokix-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
 </a>
 
 <google web-site> 
