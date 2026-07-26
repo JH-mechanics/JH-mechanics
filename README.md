@@ -11,8 +11,6 @@ Sports Scientist</b> specialized in Motor Control & Biomechanics
 --><a href="https://sites.google.com/view/anvil-labotatroy/home"><img src="https://img.shields.io/badge/-about%20me-4285F4?style=flat-square&logo=google&logoColor=white" alt="About Me"></a>
 
 <br>
-<br>
-<br>
 
 ### <b> 📌 A little more about me...</b>
 
