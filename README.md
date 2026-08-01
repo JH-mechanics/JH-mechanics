@@ -29,4 +29,4 @@ const Jongho = {
 ```
 
 ### <b> Contact
-#### <b> 📨 jjong7795@motionbirdge.kr
+#### <b> 📨 jongho.lab@motionbirdge.kr
