@@ -23,7 +23,7 @@ const Jongho = {
 
   tools: ["OpenSim", "Visual3D", "EMG", "Force Plate", "IMU"],
 
-  code: ["MATLAB", "Python (PyTorch)", "R", "C# *Unity)", "Javascript"],
+  code: ["MATLAB", "Python (PyTorch)", "R", "C# (Unity)", "Javascript"],
   
   mission: "Understanding human movement and translating research into practical solutions."
 };
